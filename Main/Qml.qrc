@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/Main.qml</file>
+        <file>Qml/Comp/CButton.qml</file>
+        <file>Qml/Comp/CDragArea.qml</file>
+        <file>Qml/Sub.qml</file>
+    </qresource>
+</RCC>
